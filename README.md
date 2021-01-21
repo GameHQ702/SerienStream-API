@@ -2,8 +2,8 @@
 
 ---
 
-Legende: 
-[o]: optinal
+Legende: <br>
+[o]: optional <br>
 [r]: required
 
 ---
